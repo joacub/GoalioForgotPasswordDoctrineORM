@@ -15,8 +15,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "joacub/goalio-forgotpassword": "dev-master",
-        "doctrine/doctrine-orm-module": "*"
+        "joacub/goalio-forgotpassword": "dev-master"
     },
     "autoload": {
         "psr-0": {
